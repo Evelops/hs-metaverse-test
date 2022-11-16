@@ -1,0 +1,24 @@
+{
+  "name": "metaverse",
+  "version": "1.0.0",
+  "description": "hs metaverse service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eomssy/hs-metaverse.git"
+  },
+  "author": "HS-Metaverse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eomssy/hs-metaverse/issues"
+  },
+  "homepage": "https://github.com/eomssy/hs-metaverse#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "phaser-matter-collision-plugin": "^1.0.0",
+    "phaser3": "^0.4.34"
+  }
+}
