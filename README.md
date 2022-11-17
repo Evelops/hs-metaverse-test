@@ -1,4 +1,4 @@
-## HS Metaverse Repo
+## Eomssy Metaverse Repo
 
 - HS 메타버스 형상관리를 위한 Repository 입니다. 
 - 마스터는 배포용이고, 개인 작업은 branch에서 진행합니다.
